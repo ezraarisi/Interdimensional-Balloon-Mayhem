@@ -45,10 +45,10 @@ python3 ~/pathtofile\full_game_working.py
 
 ## Game Snippets
 #### Gameplay
-![The Game](https://github.com/azraft277/popgame1/blob/master/assets/gameplay.png)
+![The Game](https://github.com/azraft277/popgame1/assets/gameplay.png)
 
 #### Game Over 
-![Game Over Screen](https://github.com/azraft277/popgame1/blob/master/assets/gameover.png)
+![Game Over Screen](https://github.com/azraft277/popgame1/assets/gameover.png)
 
 ## Built With
 
@@ -57,7 +57,7 @@ python3 ~/pathtofile\full_game_working.py
 
 ## Author
 
-* [** Azra **](azraft277@protonmai.com)
+* [ Azra ](azraft277@protonmai.com)
 
 
 ## License
