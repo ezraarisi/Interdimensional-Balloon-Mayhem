@@ -48,7 +48,7 @@ python3 ~/pathtofile\full_game_working.py
 ![The Game](https://github.com/azraft277/popgame1/blob/master/assets/gameplay.png)
 
 #### Game Over 
-![Game Over Screen](https://github.com/azra277/popgame1/blob/master/assets/gameover.png)
+![Game Over Screen](https://github.com/azraft277/popgame1/blob/master/assets/gameover.png)
 
 ## Built With
 
