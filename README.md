@@ -45,7 +45,8 @@ python3 ~/pathtofile\full_game_working.py
 
 ## Game Snippets
 #### Gameplay
-![The Game](https://github.com/azraft277/popgame1/assets/gameplay.png)
+![The Game](https://github.com/azraft277/popgame1/blob/main/assets/gameplay.png)
+
 
 #### Game Over 
 ![Game Over Screen](https://github.com/azraft277/popgame1/assets/gameover.png)
